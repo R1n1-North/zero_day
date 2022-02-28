@@ -1,1 +1,1 @@
-**This file contains** contains _markdown texts_.
+**This file contains** _markdown texts_.
